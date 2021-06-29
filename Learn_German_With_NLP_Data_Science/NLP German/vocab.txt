@@ -1,0 +1,599 @@
+1. English : Do you Know 
+1. German : Kennst du
+
+2. English : Going
+2. German : geht
+
+3. English : Teacher
+3. German : Lehrer
+
+4. English : He
+4. German : er
+
+5. English : Mr
+5. German : Herr
+
+6. English : see you
+6. German : Bis dann!
+
+7. English : see you
+7. German : Bis später!
+
+8. English : Mrs
+8. German : Frau
+
+9. English : called
+9. German : heißt
+
+10. English : Great 
+10. German : Prima
+
+11. English : Miserable
+11. German : miserabel
+
+12. English : Bad 
+12. German : schlecht
+
+13. English : okay
+13. German : ganz gut
+
+14. English : Late
+14. German : spät
+
+15. English : Play
+15. German : spielen
+
+16. English : do/make
+16. German : machen
+
+17. English : Lazy
+17. German : faul
+
+18. English : Go
+18. German : gehen
+
+19. English : now
+19. German : jetzt
+
+20. English : but
+20. German : aber 
+
+21. English : fun
+21. German : Spaß
+
+22. English : chess
+22. German : Schach
+
+23. English : board game
+23. German : Brettspiel
+
+24. English : game
+24. German : spiel
+
+25. English : homework
+25. German : Hausaufgaben
+
+26. English : TV watching
+26. German : Fernsehen
+
+27. English : and
+27. German : und
+
+28. English : or
+28. German : oder
+
+29. English : read
+29. German : lesen
+
+30. English : watch
+30. German : schauen
+
+31. English : see
+31. German : sehen
+
+32. English : work
+32. German : arbeiten
+
+33. English : schreiben
+33. German : write
+
+34. English : prefer
+34. German : lieber
+
+35. English : Want to
+35. German : möchte
+
+36. English : something
+36. German : etwas
+
+37. English : eat
+37. German : essen
+
+38. English : Yes
+38. German : Doch
+
+39. English : huge
+39. German : großen
+
+40. English : get
+40. German : bekommen
+
+41. English : piece
+41. German : Stück
+
+42. English : why
+42. German : warum
+
+43. English : should
+43. German : soll
+
+44. English : take
+44. German : nehmen
+
+45. English : satisfied
+45. German : zufrienden
+
+46. English : I see
+46. German : ach so
+
+47. English : then
+47. German : dann
+
+48. English : eniough
+48. German : genug
+
+49. English : restaurant
+49. German : gaststätte
+
+50. English : This
+50. German : Diese
+
+51. English : horrible
+51. German : schrecklich
+
+52. English : 
+52. German : 
+
+53. English : 
+53. German : 
+
+54. English : 
+54. German : 
+
+55. English : 
+55. German : 
+
+56. English : 
+56. German : 
+
+57. English : 
+57. German : 
+
+58. English : 
+58. German : 
+
+59. English : 
+59. German : 
+
+60. English : 
+60. German :  
+
+61. English : 
+61. German : 
+
+62. English : 
+62. German : 
+
+63. English : 
+63. German : 
+
+64. English : 
+64. German : 
+
+65. English : 
+65. German : 
+
+66. English : 
+66. German : 
+
+67. English : 
+67. German : 
+
+68. English : 
+68. German : 
+
+69. English : 
+69. German : 
+
+70. English : 
+70. German : 
+
+71. English : 
+71. German : 
+
+72. English : 
+72. German : 
+
+73. English : 
+73. German : 
+
+74. English : 
+74. German : 
+
+75. English : 
+75. German : 
+
+76. English : 
+76. German : 
+
+77. English : 
+77. German : 
+
+78. English : 
+78. German : 
+
+79. English : 
+79. German : 
+
+80. English : 
+80. German :  
+
+81. English : 
+81. German : 
+
+82. English : 
+82. German : 
+
+83. English : 
+83. German : 
+
+84. English : 
+84. German : 
+
+85. English : 
+85. German : 
+
+86. English : 
+86. German : 
+
+87. English : 
+87. German : 
+
+88. English : 
+88. German : 
+
+89. English : 
+89. German : 
+
+90. English : 
+90. German : 
+
+91. English : 
+91. German : 
+
+92. English : 
+92. German : 
+
+93. English : 
+93. German : 
+
+94. English : 
+94. German : 
+
+95. English : 
+95. German : 
+
+96. English : 
+96. German : 
+
+97. English : 
+97. German : 
+
+98. English : 
+98. German : 
+
+99. English : 
+99. German : 
+
+100. English : 
+100. German :  
+
+101. English : 
+101. German : 
+
+102. English : 
+102. German : 
+
+103. English : 
+103. German : 
+
+104. English : 
+104. German : 
+
+105. English : 
+105. German : 
+
+106. English : 
+106. German : 
+
+107. English : 
+107. German : 
+
+108. English : 
+108. German : 
+
+109. English : 
+109. German : 
+
+110. English : 
+110. German : 
+
+111. English : 
+111. German : 
+
+112. English : 
+112. German : 
+
+113. English : 
+113. German : 
+
+114. English : 
+114. German : 
+
+115. English : 
+115. German : 
+
+116. English : 
+116. German : 
+
+117. English : 
+117. German : 
+
+118. English : 
+118. German : 
+
+119. English : 
+119. German : 
+
+120. English : 
+120. German :  
+
+121. English : 
+121. German : 
+
+122. English : 
+122. German : 
+
+123. English : 
+123. German : 
+
+124. English : 
+124. German : 
+
+125. English : 
+125. German : 
+
+126. English : 
+126. German : 
+
+127. English : 
+127. German : 
+
+128. English : 
+128. German : 
+
+129. English : 
+129. German : 
+
+130. English : 
+130. German : 
+
+131. English : 
+131. German : 
+
+132. English : 
+132. German : 
+
+133. English : 
+133. German : 
+
+134. English : 
+134. German : 
+
+135. English : 
+135. German : 
+
+136. English : 
+136. German : 
+
+137. English : 
+137. German : 
+
+138. English : 
+138. German : 
+
+139. English : 
+139. German : 
+
+140. English : 
+140. German :  
+
+141. English : 
+141. German : 
+
+142. English : 
+142. German : 
+
+143. English : 
+143. German : 
+
+144. English : 
+144. German : 
+
+145. English : 
+145. German : 
+
+146. English : 
+146. German : 
+
+147. English : 
+147. German : 
+
+148. English : 
+148. German : 
+
+149. English : 
+149. German : 
+
+150. English : 
+150. German : 
+
+151. English : 
+151. German : 
+
+152. English : 
+152. German : 
+
+153. English : 
+153. German : 
+
+154. English : 
+154. German : 
+
+155. English : 
+155. German : 
+
+156. English : 
+156. German : 
+
+157. English : 
+157. German : 
+
+158. English : 
+158. German : 
+
+159. English : 
+159. German : 
+
+160. English : 
+160. German :  
+
+161. English : 
+161. German : 
+
+162. English : 
+162. German : 
+
+163. English : 
+163. German : 
+
+164. English : 
+164. German : 
+
+165. English : 
+165. German : 
+
+166. English : 
+166. German : 
+
+167. English : 
+167. German : 
+
+168. English : 
+168. German : 
+
+169. English : 
+169. German : 
+
+170. English : 
+170. German : 
+
+171. English : 
+171. German : 
+
+172. English : 
+172. German : 
+
+173. English : 
+173. German : 
+
+174. English : 
+174. German : 
+
+175. English : 
+175. German : 
+
+176. English : 
+176. German : 
+
+177. English : 
+177. German : 
+
+178. English : 
+178. German : 
+
+179. English : 
+179. German : 
+
+180. English : 
+180. German :  
+
+181. English : 
+181. German : 
+
+182. English : 
+182. German : 
+
+183. English : 
+183. German : 
+
+184. English : 
+184. German : 
+
+185. English : 
+185. German : 
+
+186. English : 
+186. German : 
+
+187. English : 
+187. German : 
+
+188. English : 
+188. German : 
+
+189. English : 
+189. German : 
+
+190. English : 
+190. German : 
+
+191. English : 
+191. German : 
+
+192. English : 
+192. German : 
+
+193. English : 
+193. German : 
+
+194. English : 
+194. German : 
+
+195. English : 
+195. German : 
+
+196. English : 
+196. German : 
+
+197. English : 
+197. German : 
+
+198. English : 
+198. German : 
+
+199. English : 
+199. German : 
+
+200. English : 
+200. German :  

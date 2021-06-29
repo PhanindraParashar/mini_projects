@@ -1,0 +1,1 @@
+API_KEY_PLOTLY = 'pk.eyJ1IjoicGhhbmkxMTIyIiwiYSI6ImNrYWY0bGhmbzBrbmYydWxwcnppNzA5cnQifQ.j6jU0VYFwze5t-VPbbDaDg'
